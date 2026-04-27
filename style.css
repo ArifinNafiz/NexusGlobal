@@ -624,7 +624,7 @@ footer {
   }
 
   .service-card {
-    width: 120%; /* larger card for small screens */
+    width: 100%;
     padding: 30px 20px;
     min-height: auto;
     flex-direction: column;
@@ -679,7 +679,7 @@ footer {
     padding: 30px 20px;
     align-items: center;
     text-align: center;
-    width: 120%;
+    width: 100%;
   }
 
   .about-text {
@@ -738,7 +738,7 @@ footer {
     flex-direction: column;
     gap: 20px;
     padding: 30px 20px;
-    width: 120%;
+    width: 100%;
   }
 
   .contact-info {
